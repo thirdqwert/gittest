@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <>
-    <p>commit 2</p>
+    <p>commit 3</p>
     </>
   );
 }
